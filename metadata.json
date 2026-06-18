@@ -1,0 +1,6 @@
+{
+  "name": "EEinterviewHK",
+  "description": "EEinterviewHK 是一款專為家長量身打造的香港名校升學與面試準備指南。提供三大黃牌套餐、10間頂級名校預覽、200+名校校長真實提問庫、私人一對一輔導預約系統、面試準備清單、面試當日全程指南與個人檔案管理。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
